@@ -1,0 +1,396 @@
+{
+  "calendarioDeOfertas": {
+	"2024-11-10": {
+	      "ofertas": [
+	        {
+	          "nombre": "asd",
+	          "apellido": "asd",
+	          "dni": "123",
+	          "montoOferta": 123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 4,
+	          "cantidadHorasOfertadas": 4,
+	          "bateria": false,
+	          "amplificador": true,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "qweqwe",
+	          "apellido": "qweqwe",
+	          "dni": "12",
+	          "montoOferta": 1.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 6,
+	          "cantidadHorasOfertadas": 6,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "eduardo",
+	          "apellido": "gara",
+	          "dni": "123",
+	          "montoOferta": 1000000.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 3,
+	          "cantidadHorasOfertadas": 3,
+	          "bateria": false,
+	          "amplificador": true,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": true,
+	          "parlante": true
+	        },
+	        {
+	          "nombre": "julian",
+	          "apellido": "asd",
+	          "dni": "123",
+	          "montoOferta": 50000.0,
+	          "horarioInicial": 3,
+	          "horarioFinal": 6,
+	          "cantidadHorasOfertadas": 3,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "seba",
+	          "apellido": "asd",
+	          "dni": "123",
+	          "montoOferta": 300.0,
+	          "horarioInicial": 2,
+	          "horarioFinal": 6,
+	          "cantidadHorasOfertadas": 4,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    },
+	    "2024-11-07": {
+	      "ofertas": [
+	        {
+	          "nombre": "fsdf",
+	          "apellido": "sdfs",
+	          "dni": "123",
+	          "montoOferta": 123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 0,
+	          "cantidadHorasOfertadas": 0,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "rrrrr",
+	          "apellido": "xzczxczx",
+	          "dni": "56456456",
+	          "montoOferta": 4.5634564E7,
+	          "horarioInicial": 0,
+	          "horarioFinal": 0,
+	          "cantidadHorasOfertadas": 0,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "11111",
+	          "apellido": "11111",
+	          "dni": "1111111",
+	          "montoOferta": 1111.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 0,
+	          "cantidadHorasOfertadas": 0,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    },
+	    "2024-11-06": {
+	      "ofertas": [
+	        {
+	          "nombre": "zxc",
+	          "apellido": "zxc",
+	          "dni": "3333",
+	          "montoOferta": 123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 4,
+	          "cantidadHorasOfertadas": 4,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "edu",
+	          "apellido": "gara",
+	          "dni": "36039472",
+	          "montoOferta": 10000.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 2,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": true,
+	          "amplificador": true,
+	          "microfono": true,
+	          "piano": true,
+	          "consola": true,
+	          "parlante": true
+	        },
+	        {
+	          "nombre": "nico",
+	          "apellido": "gara",
+	          "dni": "12314564",
+	          "montoOferta": 2000.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 5,
+	          "cantidadHorasOfertadas": 5,
+	          "bateria": true,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": true,
+	          "parlante": true
+	        },
+	        {
+	          "nombre": "asdasd",
+	          "apellido": "asdas",
+	          "dni": "123",
+	          "montoOferta": 123123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 0,
+	          "cantidadHorasOfertadas": 0,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "asdasd",
+	          "apellido": "asd",
+	          "dni": "123",
+	          "montoOferta": 123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 0,
+	          "cantidadHorasOfertadas": 0,
+	          "bateria": true,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "1231231",
+	          "apellido": "123123",
+	          "dni": "123123123",
+	          "montoOferta": 123123.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 7,
+	          "cantidadHorasOfertadas": 7,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    },
+	    "2024-11-03": {
+	      "ofertas": [
+	        {
+	          "nombre": "edu",
+	          "apellido": "asd",
+	          "dni": "000",
+	          "montoOferta": 111.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 2,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    },
+	    "2024-11-11": {
+	      "ofertas": [
+	        {
+	          "nombre": "Edu",
+	          "apellido": "Gara",
+	          "dni": "36039472",
+	          "montoOferta": 150.0,
+	          "horarioInicial": 10,
+	          "horarioFinal": 12,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "Julian",
+	          "apellido": "Kidjekouchian",
+	          "dni": "22222222",
+	          "montoOferta": 200.0,
+	          "horarioInicial": 13,
+	          "horarioFinal": 15,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": true,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": true,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "Seba",
+	          "apellido": "Prieto",
+	          "dni": "33333333",
+	          "montoOferta": 100.0,
+	          "horarioInicial": 12,
+	          "horarioFinal": 14,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": true,
+	          "amplificador": false,
+	          "microfono": true,
+	          "piano": true,
+	          "consola": false,
+	          "parlante": true
+	        },
+	        {
+	          "nombre": "Thiago",
+	          "apellido": "Lozano",
+	          "dni": "44444444",
+	          "montoOferta": 250.0,
+	          "horarioInicial": 15,
+	          "horarioFinal": 17,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    }
+    
+  },
+  "calendarioDeOfertasReservadas": {
+	"2024-11-10": {
+	      "ofertas": [
+	        {
+	          "nombre": "eduardo",
+	          "apellido": "gara",
+	          "dni": "123",
+	          "montoOferta": 1000000.0,
+	          "horarioInicial": 0,
+	          "horarioFinal": 3,
+	          "cantidadHorasOfertadas": 3,
+	          "bateria": false,
+	          "amplificador": true,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": true,
+	          "parlante": true
+	        },
+	        {
+	          "nombre": "julian",
+	          "apellido": "asd",
+	          "dni": "123",
+	          "montoOferta": 50000.0,
+	          "horarioInicial": 3,
+	          "horarioFinal": 6,
+	          "cantidadHorasOfertadas": 3,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    },
+	    "2024-11-11": {
+	      "ofertas": [
+	        {
+	          "nombre": "Thiago",
+	          "apellido": "Lozano",
+	          "dni": "44444444",
+	          "montoOferta": 250.0,
+	          "horarioInicial": 15,
+	          "horarioFinal": 17,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "Julian",
+	          "apellido": "Kidjekouchian",
+	          "dni": "22222222",
+	          "montoOferta": 200.0,
+	          "horarioInicial": 13,
+	          "horarioFinal": 15,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": true,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": true,
+	          "parlante": false
+	        },
+	        {
+	          "nombre": "Edu",
+	          "apellido": "Gara",
+	          "dni": "36039472",
+	          "montoOferta": 150.0,
+	          "horarioInicial": 10,
+	          "horarioFinal": 12,
+	          "cantidadHorasOfertadas": 2,
+	          "bateria": false,
+	          "amplificador": false,
+	          "microfono": false,
+	          "piano": false,
+	          "consola": false,
+	          "parlante": false
+	        }
+	      ]
+	    }
+	
+  }
+}
