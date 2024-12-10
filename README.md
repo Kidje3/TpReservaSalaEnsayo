@@ -7,7 +7,7 @@ La aplicación se encarga de:
 - Almacenar la información de las ofertas en un archivo serializado para su recuperación en sesiones futuras.
 - Proveer una interfaz gráfica de usuario para facilitar la interacción.
 
-#### Funcionalidades opcionales:
+#### Funcionalidades adicionales:
 1. Registrar datos adicionales como nombre del oferente y equipamiento solicitado.
 2. Mostrar las ofertas recibidas y adjudicadas en un calendario gráfico.
 3. Implementar y comparar algoritmos para resolver el problema de maximización de ganancias: uno en tiempo polinomial y otro utilizando una heurística golosa.
