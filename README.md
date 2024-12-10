@@ -6,7 +6,3 @@ La aplicación se encarga de:
 - Seleccionar las ofertas de forma que no se superpongan en el tiempo y maximicen las ganancias.
 - Almacenar la información de las ofertas en un archivo serializado para su recuperación en sesiones futuras.
 - Proveer una interfaz gráfica de usuario para facilitar la interacción.
-
-#### Funcionalidades adicionales:
-1. Registrar datos adicionales como nombre del oferente y equipamiento solicitado.
-2. Mostrar las ofertas recibidas y adjudicadas en un calendario gráfico.
